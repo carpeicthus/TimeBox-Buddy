@@ -1,0 +1,5 @@
+{
+  "name": "Timebox Architect",
+  "description": "An ADHD-friendly timeboxing assistant for planning daily and weekly schedules. Features AI-powered scheduling, modification, and export formats for Apple Calendar and external AI prompts.",
+  "requestFramePermissions": []
+}
